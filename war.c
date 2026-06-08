@@ -7,6 +7,8 @@
 // Aluno: Francisco Araújo de Paiva Junior
 // Tema 1 - Estruturas de Dados: Conceitos e Representação
 // Nível: Mestre
+// PROFESSORES: TODOS OS NIVEIS NO MEU:
+// GITHUB: https://github.com/FcoJrPRO/programacaoC
 
 //Estrutura Territorio:
 
